@@ -6,8 +6,8 @@
 
 🌍 Based in Kigali, Rwanda  
 🎓 Software Engineering @ African Leadership University (2027)  
-💻 See my portfolio at [mairopedro-portfolio.vercel.app](https://mairopedro-portfolio.vercel.app)
-📧 Reach me at mairopedro.isaac@gmail.com
+💻 See my portfolio at [mairopedro-portfolio.vercel.app](https://mairopedro-portfolio.vercel.app)  
+📧 Reach me at [mairopedro.isaac@gmail.com](mailto:mairopedro.isaac@gmail.com)  
 🚀 Currently building [HealthVault Rwanda](https://github.com/MairoPedroIsaac) - AI-powered health records platform  
 📈 Also building [Influence Trading House](https://influence-trading-house.vercel.app) - Fintech SaaS  
 🌱 Learning AWS Solutions Architect & ML/AI  
