@@ -1,4 +1,4 @@
-# Hi 👋 I'm Mairo Pedro Isaac
+# Hi 👋🏿 I'm Mairo Pedro Isaac
 
 ### Full-Stack Developer | Django · Next.js · TypeScript | Fintech & Healthcare
 
