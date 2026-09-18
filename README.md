@@ -4,14 +4,15 @@
 
 ---
 
-🌍 Based in Kigali, Rwanda  
-🎓 Software Engineering @ African Leadership University (2027)  
-💻 See my portfolio at [mairopedro-portfolio.vercel.app](https://mairopedro-portfolio.vercel.app)  
-📧 Reach me at [mairopedro.isaac@gmail.com](mailto:mairopedro.isaac@gmail.com)  
-🚀 Currently building [HealthVault Rwanda](https://github.com/MairoPedroIsaac) - AI-powered health records platform  
-📈 Also building [Influence Trading House](https://influence-trading-house.vercel.app) - Fintech SaaS  
-🌱 Learning AWS Solutions Architect & ML/AI  
-🤝 Open to collaborating on Django, Next.js, Fintech, and Healthcare projects  
+- 🌍 Based in Kigali, Rwanda
+- 🎓 Software Engineering @ African Leadership University (2027)
+- 💻 Portfolio: [mairopedro.com](https://mairopedro.com)
+- 📧 Reach me at [mairopedroisaac@gmail.com](mailto:mairopedroisaac@gmail.com)
+- 🚀 Built [NephroSasa Rwanda](https://github.com/MairoPedroIsaac/nephrosasa-rwanda) - AI-powered early kidney disease detection platform
+- 🧾 Built [SwiftBill](https://github.com/MairoPedroIsaac/swiftbill) - Full-stack invoicing platform with auth, saved clients/items, and PDF generation
+- 📈 Building [Influence Trading House](https://influence-trading-house.vercel.app/) - Backtesting and analytics infrastructure for quant trading
+- ☁️ Learning: AWS Solutions Architect, Terraform, Kubernetes, CI/CD (GitHub Actions)
+- 🤝 Open to collaborating on Django, Next.js, Fintech, and Healthcare projects 
 
 ---
 
